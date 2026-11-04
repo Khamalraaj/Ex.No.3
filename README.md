@@ -41,27 +41,27 @@ Use simple student-friendly language.
 
  1. Definition of AI in Healthcare
 
-Artificial Intelligence (AI) in healthcare uses computer systems and machine learning to analyze medical data, identify diseases, and help doctors make decisions. It helps detect diseases at an early stage.
+   Artificial Intelligence (AI) in healthcare uses computer systems and machine learning to analyze medical data, identify diseases, and help doctors make             decisions. It helps detect diseases at an early stage.
 
  2. Five Applications
 
-1. Cancer Detection: Identifies cancer using MRI and mammogram images.
-2. Diabetes Detection: Analyzes blood sugar levels and retinal images.
-3. Heart Disease Detection: Examines ECG reports and heart rate.
-4. Brain Tumor Detection: Identifies abnormal growth using MRI scans.
-5. Pneumonia Detection: Detects possible pneumonia from chest X-rays.
+  Cancer Detection: Identifies cancer using MRI and mammogram images.
+  Diabetes Detection: Analyzes blood sugar levels and retinal images.
+  Heart Disease Detection: Examines ECG reports and heart rate.
+  Brain Tumor Detection: Identifies abnormal growth using MRI scans.
+  Pneumonia Detection: Detects possible pneumonia from chest X-rays.
 
  3. Three Benefits
 
-1. Early Detection: Helps identify diseases before they become severe.
-2. Faster Diagnosis: Analyzes medical reports quickly.
-3. Better Accuracy: Helps doctors identify abnormalities and make informed decisions.
+  Early Detection: Helps identify diseases before they become severe.
+  Faster Diagnosis: Analyzes medical reports quickly.
+  Better Accuracy: Helps doctors identify abnormalities and make informed decisions.
 
  4. Real-World Examples
 
-1. Google DeepMind: Uses AI research to identify eye diseases from retinal images.
-2. IDx-DR: Detects diabetic retinopathy using eye scans.
-3. Aidoc: Uses AI to identify urgent medical conditions from CT scans.
+  Google DeepMind: Uses AI research to identify eye diseases from retinal images.
+  IDx-DR: Detects diabetic retinopathy using eye scans.
+  Aidoc: Uses AI to identify urgent medical conditions from CT scans.
 
 ### Conclusion
 
