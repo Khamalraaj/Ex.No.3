@@ -23,14 +23,18 @@ The four prompting techniques are applied to the topic of AI in healthcare. Thei
 Straightforward prompting gives direct and clear instructions to an AI model without providing additional examples or complex conditions.
 
 Example Prompts:
+```
+Explain how Artificial Intelligence helps in early
+disease detection.
 
-1. "Define Artificial Intelligence in healthcare in two sentences."
+Include:
+1. Definition of AI in healthcare
+2. Five applications
+3. Three benefits
+4. Real-world examples
 
-2. "List five applications of AI in medical diagnosis."
-
-3. "Explain how AI helps doctors detect diseases at an early stage."
-
-4. "Describe three benefits of using AI in healthcare."
+Use simple student-friendly language.
+```
 
 Generated Answer:
 
